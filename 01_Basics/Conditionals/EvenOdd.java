@@ -1,10 +1,4 @@
-/**
- * Problem: EvenOdd
- * Level: Easy/Mid/Hard progression
- * Includes: problem idea, executable solution, output practice and interview revision.
- * Complexity: Analyze the dominant loop/operation after running.
- * Interview practice: Explain the approach, edge cases, and possible optimization.
- */
+// Problem: EvenOdd
 public class EvenOdd {
     public static void main(String[] args) {
         int n=17; 
